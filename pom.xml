@@ -40,6 +40,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				  <artifactId>dockerfile-maven-plugin</artifactId>
+				  <version>1.4.10</version>
 			</plugin>
 		</plugins>
 	</build>
